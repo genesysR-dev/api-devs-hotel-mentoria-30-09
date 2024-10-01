@@ -26,25 +26,6 @@ Asegúrate de que la aplicación esté en ejecución localmente siguiendo las in
 
 Realiza las solicitudes de prueba utilizando Postman.
 
-## Configuración del Entorno de Desarrollo
-Para ejecutar la API localmente, sigue estos pasos:
-
-1. Clona este repositorio:
-```
-git clone https://github.com/tu-usuario/tu-repositorio.git 
-```
-2. Configura la base de datos MySQL. Asegúrate de que MySQL esté instalado y crea una base de datos llamada hotel_management. También deberás configurar las credenciales de acceso en el archivo application.properties.
-
-3. Compila y ejecuta la aplicación:
-   Esto puedes realizarlo mediante la linea de comandos con:
-```   
-    cd tu-repositorio
-   ./mvnw spring-boot:run
-```
-O a través del IDE con el que estes trabajando, en mi caso IntelliJ.
-
-
-#### La API estará disponible en http://localhost:8080.
 
 ## Contribuciones
-¡Siéntete libre de contribuir al desarrollo de este proyecto! Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) con mejoras.
+¡Siéntete libre de contribuir al desarrollo de este proyecto! Puedes abrir issues o enviar solicitudes de extracción (pull requests) con mejoras.
